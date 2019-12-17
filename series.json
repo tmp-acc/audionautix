@@ -1,0 +1,11 @@
+{
+    "info": {
+        "title": "Audionautix",
+        "logo": "logo.png"
+    },
+    "stations": [
+        {
+            "path": "audionautix"
+        }
+    ]
+}

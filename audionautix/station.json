@@ -17,7 +17,11 @@
         {
           "path": "thump.m4a",
           "duration": 114.41 
-        }
+        },
+        {
+          "path": "transportation.m4a",
+          "duration": 190.12
+        }        
       ]
     },
     {
@@ -103,7 +107,7 @@
               "tag": "mixins",
               "src": {
                 "type": "group",
-                "groupTag": "mixins"
+                "groupTag": "mixin"
               },
               "condition": {
                 "type": "random",
